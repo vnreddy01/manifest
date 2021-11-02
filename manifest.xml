@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<manifest> 
+
+<remote fetch="https://github.com/vnreddy01/" name="origin" review="github"/>
+<default remote="origin" revision="master" />
+
+ <!-- SDK & Application Details -->
+ 
+ <project name="sdk_main" path="."/>
+ <project name="app_one" path="app_one"/>
+
+</manifest>
